@@ -4,8 +4,15 @@
         <description><![CDATA[Fire breathing mobile solar powered sound stage!?!?]]></description>
         <link>https://thegrid.ai/solarbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:27:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/solarbeatz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Burning Man 2015]]></title>
+            <description><![CDATA[<article><h1>Burning Man 2015</h1><p>New Life Added to SolarBeatz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25c7dea7f8a57b8bafc8d00e2e4b1474e09903f4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/solarbeatz/73109fd6-5bbb-4f90-b365-282ae77b7363/index.html</link>
+            <guid isPermaLink="false">73109fd6-5bbb-4f90-b365-282ae77b7363</guid>
+            <pubDate>Tue, 08 Mar 2016 03:26:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30960cfa-5783-477b-a0b4-43be4e975ffe.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/solarbeatz/ba47be89-e58e-405b-9ea4-509f8b856496/index.html</link>
             <guid isPermaLink="false">ba47be89-e58e-405b-9ea4-509f8b856496</guid>
             <pubDate>Tue, 08 Mar 2016 03:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90750150-5977-4811-8039-aeb083383c1e.jpg">]]></description>
-            <link>https://thegrid.ai/solarbeatz/73109fd6-5bbb-4f90-b365-282ae77b7363/index.html</link>
-            <guid isPermaLink="false">73109fd6-5bbb-4f90-b365-282ae77b7363</guid>
-            <pubDate>Tue, 08 Mar 2016 02:50:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
