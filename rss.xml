@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SolarBeatz]]></title>
         <description><![CDATA[SolarBeatz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/solarbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 02:33:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 02:49:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/solarbeatz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b4bcbb1-be7d-4c25-a489-7ef6dc92f89a.jpg">]]></description>
+            <link>https://thegrid.ai/solarbeatz/af363d58-e923-4647-b9fe-0e13552a43fb/index.html</link>
+            <guid isPermaLink="false">af363d58-e923-4647-b9fe-0e13552a43fb</guid>
+            <pubDate>Tue, 08 Mar 2016 02:49:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>SolarBeatz joins Burners Without Borders at Burning Man 2015</p>]]></description>
-            <link>undefined817c66c8-0b2e-4858-8037-6adda6e64774/index.html</link>
+            <link>https://thegrid.ai/solarbeatz/817c66c8-0b2e-4858-8037-6adda6e64774/index.html</link>
             <guid isPermaLink="false">817c66c8-0b2e-4858-8037-6adda6e64774</guid>
             <pubDate>Tue, 08 Mar 2016 02:32:33 GMT</pubDate>
         </item>
