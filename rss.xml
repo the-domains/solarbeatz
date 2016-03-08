@@ -4,11 +4,18 @@
         <description><![CDATA[Fire breathing mobile solar powered sound stage!?!?]]></description>
         <link>https://thegrid.ai/solarbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:23:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/solarbeatz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca75b3c9-0cb6-4999-b68f-9e9cda35c904.jpg">]]></description>
+            <link>https://thegrid.ai/solarbeatz/817c66c8-0b2e-4858-8037-6adda6e64774/index.html</link>
+            <guid isPermaLink="false">817c66c8-0b2e-4858-8037-6adda6e64774</guid>
+            <pubDate>Tue, 08 Mar 2016 03:18:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SolarBeatz at LOF]]></title>
-            <description><![CDATA[<article><h1>SolarBeatz at LOF</h1><p>Solar Reflections at Lakes of Fire</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aa244a9-80aa-4b6a-9bc5-60d4b1e70d3d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>SolarBeatz at LOF</h1><p>Solar Reflections at Lakes of Fire</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0297222875009b26a0aa58098167d85f1e2f4b0.jpg"></article>]]></description>
             <link>https://thegrid.ai/solarbeatz/ba47be89-e58e-405b-9ea4-509f8b856496/index.html</link>
             <guid isPermaLink="false">ba47be89-e58e-405b-9ea4-509f8b856496</guid>
             <pubDate>Tue, 08 Mar 2016 03:13:56 GMT</pubDate>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/solarbeatz/af363d58-e923-4647-b9fe-0e13552a43fb/index.html</link>
             <guid isPermaLink="false">af363d58-e923-4647-b9fe-0e13552a43fb</guid>
             <pubDate>Tue, 08 Mar 2016 02:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SolarBeatz joins Burners Without Borders at Burning Man 2015</p>]]></description>
-            <link>https://thegrid.ai/solarbeatz/817c66c8-0b2e-4858-8037-6adda6e64774/index.html</link>
-            <guid isPermaLink="false">817c66c8-0b2e-4858-8037-6adda6e64774</guid>
-            <pubDate>Tue, 08 Mar 2016 02:32:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
